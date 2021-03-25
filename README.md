@@ -33,11 +33,21 @@ Utilizing this data, my goal is to answer the following questions:
 
 ## File Descriptions <a name="files"></a>
 
+The project contains the following files
+
+```
+- \data
+    - portfolio.json: offer information data set
+    - profile.json: customer information data set
+    - transcript.json: event data set
+- Starbucks_Capstone_notebook.ipynb: Jupyter notebook project report
+```
+
 The main analysis is contained in the [Starbucks_Capstone_notebook](Starbucks_Capstone_notebook.ipynb) Jupyter notebook. The notebook includes all functions and code used to answer the project questions as well as the rationale behind the analyses in Markdown cells.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the Medium post available [here](https://medium.com/@schuessler.katharina/).
+The main findings of the code can be found at the Medium post available [here](https://medium.com/@schuessler.katharina/predicting-starbucks-promotional-offer-success-230d21205b86).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
