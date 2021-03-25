@@ -13,9 +13,12 @@ Capstone project for the Udacity Data Scientist Nanodegree
 
 To run the notebook and scripts, Jupyter notebook, Python 3.9 and the following libraries are neccessary:
 
+* json
+* datetime
+* math
+* matplotlib
 * numpy
 * pandas
-* matplotlib
 * seaborn (version 0.11.0 or higher)
 * sklearn
 
